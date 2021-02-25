@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstWPFApp", "FirstWPFApp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF1_", "WPF1_\WPF1_.csproj", "{37248EC0-D4C8-4EE8-AA0B-40C764B365FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "Pokemon\Pokemon.csproj", "{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{37248EC0-D4C8-4EE8-AA0B-40C764B365FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37248EC0-D4C8-4EE8-AA0B-40C764B365FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37248EC0-D4C8-4EE8-AA0B-40C764B365FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
