@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF1_", "WPF1_\WPF1_.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pokemon", "Pokemon\Pokemon.csproj", "{36113D2D-1CC2-480F-BC7E-E93FC79D1B3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes3", "Classes3\Classes3.csproj", "{2B9CDBDD-E862-450C-BEDD-CF4456BF94B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes3", "Classes3\Classes3.csproj", "{2B9CDBDD-E862-450C-BEDD-CF4456BF94B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFRickAndMorty", "WPFRickAndMorty\WPFRickAndMorty.csproj", "{0C653A6D-E31A-4965-92DE-3832ADBC71A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2B9CDBDD-E862-450C-BEDD-CF4456BF94B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B9CDBDD-E862-450C-BEDD-CF4456BF94B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B9CDBDD-E862-450C-BEDD-CF4456BF94B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C653A6D-E31A-4965-92DE-3832ADBC71A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C653A6D-E31A-4965-92DE-3832ADBC71A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C653A6D-E31A-4965-92DE-3832ADBC71A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C653A6D-E31A-4965-92DE-3832ADBC71A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
